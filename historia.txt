@@ -6,3 +6,5 @@ viviendo en todo el mundo
 hoy hablaremos de su historia
 
 en camara me veo mas alto pero no soy tan alto
+
+hoy aprengo git
